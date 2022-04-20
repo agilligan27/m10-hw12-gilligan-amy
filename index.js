@@ -7,7 +7,7 @@ class Car {
         this.year = year;
     }
     honk(){
-        console.log("BEEP BEEP!")
+        console.log('BEEP BEEP!')
     }
 
     performMaintenance(){
